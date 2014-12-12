@@ -1,4 +1,4 @@
-business-registrar-gjakova
-==========================
+business-registrar
+==================
 
-Workshop for Business Registrar in Gjakova
+Business Registration System
